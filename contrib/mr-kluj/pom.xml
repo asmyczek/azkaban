@@ -78,6 +78,11 @@
       <version>0.4-mr-kluj</version>
     </dependency>
     <dependency>
+      <groupId>simple-avro</groupId>
+      <artifactId>simple-avro</artifactId>
+      <version>0.0.4</version>
+    </dependency>
+    <dependency>
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop</artifactId>
       <version>0.20.3-dev-core</version>
